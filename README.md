@@ -1,2 +1,1 @@
-# crudjs
-crud app
+Crud basico usando nodeJS
