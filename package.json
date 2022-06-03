@@ -1,0 +1,22 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "crud application in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelowallace1/crudjs.git"
+  },
+  "author": "mars1.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelowallace1/crudjs/issues"
+  },
+  "homepage": "https://github.com/marcelowallace1/crudjs#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
